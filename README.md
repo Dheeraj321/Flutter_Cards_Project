@@ -6,3 +6,4 @@ A new Flutter project.
 
 <h4> The main components of the project are [ Positioned , Cards , Container ] widgets .</h4> 
 <center><h2>Outputs</h2></center>
+![](assets/Output.png)
